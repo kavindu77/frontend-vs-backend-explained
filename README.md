@@ -1,4 +1,4 @@
-# ✨ Frontend vs Backend – Explained Like a Human
+# ✨ Frontend vs Backend 
 
 ## 👋 Let’s Start with Something Simple...
 
